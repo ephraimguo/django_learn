@@ -1,0 +1,17 @@
+{% extends 'calc/base.html' %}
+
+{% block title %}home{% endblock %}
+
+
+{% block content %}
+    <h1>this is home page tile</h1>
+    <h3>when you see this means I success to build a simple backend</h3>
+    <p>yes man... I am making some progress</p>
+    <p>Site:{{ info_dict.site }}, Content: {{ info_dict.content }}</p>
+    <a href="{% url 'add2'  12 5 %}">calc the summation</a>
+    <a href="{{ request.path }}?{{ request.GET.urlencode }}">Current</a>
+    {% for item in str2 %}
+        {{ item }}<br>
+    {% endfor %}
+
+{% endblock %}

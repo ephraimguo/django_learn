@@ -1,0 +1,11 @@
+body{
+    background: white url('images/bg_paper.jpg') repeat;
+}
+
+.nav-bar {
+ border-radius: 0;
+}
+
+.nav-bar-brand{
+    font-family: 'Times New Roman', cursive;
+}
