@@ -1,34 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75c146e4-8125-40f0-b927-ae48b6916b73" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/zqxt_learn_models/.db.sqlite3.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_learn_models/learn_models/..__init__.pyc.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_learn_models/learn_models/.settings.pyc.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_learn_models/learn_models/.urls.pyc.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_learn_models/people/..__init__.pyc.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_learn_models/people/.admin.pyc.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_learn_models/people/.models.pyc.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_learn_models/people/migrations/..__init__.pyc.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_learn_models/people/migrations/.0001_initial.pyc.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_queryset_advance/blog/..__init__.pyc.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_queryset_advance/blog/.admin.pyc.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_queryset_advance/blog/.models.pyc.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_queryset_advance/blog/migrations/..__init__.pyc.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_queryset_advance/blog/migrations/.0001_initial.pyc.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_queryset_advance/zqxt/..__init__.pyc.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_queryset_advance/zqxt/.settings.pyc.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_queryset_advance/zqxt/.urls.pyc.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_queryset_advance/zqxt/.wsgi.pyc.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_views/.db.sqlite3.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_views/calc/..__init__.pyc.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_views/calc/.models.pyc.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_views/calc/.views.pyc.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_views/calc/templates/.home.html.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_views/zqxt_views/..__init__.pyc.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_views/zqxt_views/.settings.pyc.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_views/zqxt_views/.urls.pyc.icloud" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zqxt_views/zqxt_views/.wsgi.pyc.icloud" afterPath="" />
+    <list default="true" id="cf560b79-602f-41a1-b4b1-aab485508500" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,29 +14,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JsBowerSettings">
-    <node-interpreter value="project" />
-    <exe-path />
-    <config-path />
-  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsFlowSettings">
-    <service-enabled>true</service-enabled>
-    <exe-path />
-    <annotation-enable>false</annotation-enable>
-    <other-services-enabled>true</other-services-enabled>
-    <auto-save>true</auto-save>
-  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="25" />
-    <option name="y" value="22" />
-    <option name="width" value="1648" />
-    <option name="height" value="1028" />
+    <option name="x" value="837" />
+    <option name="y" value="71" />
+    <option name="width" value="1783" />
+    <option name="height" value="1530" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -79,7 +41,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -92,10 +53,10 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunDashboard">
@@ -113,41 +74,37 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration>$USER_HOME$/.subversion</configuration>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="75c146e4-8125-40f0-b927-ae48b6916b73" name="Default" comment="" />
-      <created>1513041463092</created>
+      <changelist id="cf560b79-602f-41a1-b4b1-aab485508500" name="Default" comment="" />
+      <created>1513083874091</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1513041463092</updated>
+      <updated>1513083874091</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="25" y="22" width="1648" height="1028" extended-state="0" />
+    <frame x="837" y="71" width="1783" height="1530" extended-state="0" />
     <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17690982" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24968867" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -160,20 +117,5 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
